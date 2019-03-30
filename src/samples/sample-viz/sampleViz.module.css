@@ -1,0 +1,10 @@
+.timestamp {
+    font-size: 14px;
+    background: #efefef;
+    padding: 1em;
+    text-align: left;
+}
+
+.graph {
+    margin: 1em;
+}
